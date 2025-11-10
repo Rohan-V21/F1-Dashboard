@@ -19,3 +19,6 @@
 ![F1 Dashboard pics/13.PNG](https://github.com/Rohan-V21/F1-Dashboard/blob/main/F1%20Dashboard%20pics/13.PNG)
 ![F1 Dashboard pics/14.PNG](https://github.com/Rohan-V21/F1-Dashboard/blob/main/F1%20Dashboard%20pics/14.PNG)
 ![F1 Dashboard pics/15.PNG](https://github.com/Rohan-V21/F1-Dashboard/blob/main/F1%20Dashboard%20pics/15.PNG)
+
+## I have uploaded a testing dataset 2018.csv to verify dynamicity of this dashboard yourself.
+## Path: Cleaned Datasets/2018.csv
