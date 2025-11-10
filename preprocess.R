@@ -61,7 +61,7 @@ races_master <- races_all |>
   ) |>
   transmute(
     year, date, date_parsed, title, circuit, winner_driver, pole_driver,
-    winner_team = "Not listed"  # No driver->team inference possible without driver column in constructors
+    winner_team = "Not listed" 
   )
 
 write_csv(races_master,     file.path(processed_dir, "races_master.csv"))
@@ -269,5 +269,6 @@ library(RSQLite)
 
 con <- dbConnect(SQLite(), "C:/Users/rohan/Downloads/processed/f1.sqlite")
 
-View(dbReadTable(con, "constructors_all"))   # Spreadsheet view
+View(dbReadTable(con, "constructors_all"))   
+
 
