@@ -1,9 +1,9 @@
 # F1-Dashboard
 ## Rohan Vashisth, 22BDS0195. This is my Programming for Data Science final Seminar Project.
 # Dataset Link
-##Website: https://pitwall.app/
-##PDF: https://mitsloan.mit.edu/sites/default/files/2021-04/Formula%201.Unleashing%20the%20Greatest%20Spectacle%20on%20the%20Planet.IC_.pdf
-##Images from Google Images
+## Website: https://pitwall.app/
+## PDF: https://mitsloan.mit.edu/sites/default/files/2021-04/Formula%201.Unleashing%20the%20Greatest%20Spectacle%20on%20the%20Planet.IC_.pdf
+## Images from Google Images
 ![F1 Dashboard pics/1.PNG](https://github.com/Rohan-V21/F1-Dashboard/blob/main/F1%20Dashboard%20pics/1.PNG)
 ![F1 Dashboard pics/2.PNG](https://github.com/Rohan-V21/F1-Dashboard/blob/main/F1%20Dashboard%20pics/2.PNG)
 ![F1 Dashboard pics/3.PNG](https://github.com/Rohan-V21/F1-Dashboard/blob/main/F1%20Dashboard%20pics/3.PNG)
