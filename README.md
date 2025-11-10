@@ -1,3 +1,17 @@
 # F1-Dashboard
 ## Rohan Vashisth, 22BDS0195. This is my Programming for Data Science final Seminar Project.
 ![F1 Dashboard pics/1.PNG](https://github.com/Rohan-V21/F1-Dashboard/blob/main/F1%20Dashboard%20pics/1.PNG)
+![F1 Dashboard pics/2.PNG](https://github.com/Rohan-V21/F1-Dashboard/blob/main/F1%20Dashboard%20pics/2.PNG)
+![F1 Dashboard pics/3.PNG](https://github.com/Rohan-V21/F1-Dashboard/blob/main/F1%20Dashboard%20pics/3.PNG)
+![F1 Dashboard pics/4.PNG](https://github.com/Rohan-V21/F1-Dashboard/blob/main/F1%20Dashboard%20pics/4.PNG)
+![F1 Dashboard pics/5.PNG](https://github.com/Rohan-V21/F1-Dashboard/blob/main/F1%20Dashboard%20pics/5.PNG)
+![F1 Dashboard pics/6.PNG](https://github.com/Rohan-V21/F1-Dashboard/blob/main/F1%20Dashboard%20pics/6.PNG)
+![F1 Dashboard pics/7.PNG](https://github.com/Rohan-V21/F1-Dashboard/blob/main/F1%20Dashboard%20pics/7.PNG)
+![F1 Dashboard pics/8.PNG](https://github.com/Rohan-V21/F1-Dashboard/blob/main/F1%20Dashboard%20pics/8.PNG)
+![F1 Dashboard pics/9.PNG](https://github.com/Rohan-V21/F1-Dashboard/blob/main/F1%20Dashboard%20pics/9.PNG)
+![F1 Dashboard pics/10.PNG](https://github.com/Rohan-V21/F1-Dashboard/blob/main/F1%20Dashboard%20pics/10.PNG)
+![F1 Dashboard pics/11.PNG](https://github.com/Rohan-V21/F1-Dashboard/blob/main/F1%20Dashboard%20pics/11.PNG)
+![F1 Dashboard pics/12.PNG](https://github.com/Rohan-V21/F1-Dashboard/blob/main/F1%20Dashboard%20pics/12.PNG)
+![F1 Dashboard pics/13.PNG](https://github.com/Rohan-V21/F1-Dashboard/blob/main/F1%20Dashboard%20pics/13.PNG)
+![F1 Dashboard pics/14.PNG](https://github.com/Rohan-V21/F1-Dashboard/blob/main/F1%20Dashboard%20pics/14.PNG)
+![F1 Dashboard pics/15.PNG](https://github.com/Rohan-V21/F1-Dashboard/blob/main/F1%20Dashboard%20pics/15.PNG)
