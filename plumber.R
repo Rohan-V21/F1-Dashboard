@@ -1,6 +1,3 @@
-# plumber.R
-# Run with: plumber::pr("plumber.R") |> pr_run(port = 8000)
-
 if (!requireNamespace("plumber", quietly = TRUE)) install.packages("plumber")
 if (!requireNamespace("DBI", quietly = TRUE)) install.packages("DBI")
 if (!requireNamespace("RSQLite", quietly = TRUE)) install.packages("RSQLite")
@@ -10,11 +7,9 @@ library(DBI)
 library(RSQLite)
 library(jsonlite)
 
-# Use env var if set, otherwise default to your processed path
 db_path <- Sys.getenv("F1_DB_PATH",
                       unset = "C:/Users/rohan/Downloads/processed/f1.sqlite")
 
-# Small helper to run a read query safely
 db_read <- function(sql, params = list()) {
   con <- dbConnect(SQLite(), db_path)
   on.exit(dbDisconnect(con), add = TRUE)
@@ -29,14 +24,12 @@ db_read <- function(sql, params = list()) {
   out
 }
 
-# Small helper to run a write/DDL safely
 db_exec <- function(sql, params = list()) {
   con <- dbConnect(SQLite(), db_path)
   on.exit(dbDisconnect(con), add = TRUE)
   if (length(params)) DBI::dbExecute(con, sql, params = params) else DBI::dbExecute(con, sql)
 }
 
-# --- OPTIONAL: a tiny version table to help Shiny detect changes ---
 db_exec("CREATE TABLE IF NOT EXISTS _version (id INTEGER PRIMARY KEY, ts TEXT)")
 if (nrow(db_read("SELECT COUNT(*) as n FROM _version")) == 0) {
   db_exec("INSERT INTO _version(ts) VALUES(datetime('now'))")
@@ -98,3 +91,4 @@ function(){
   db_exec("INSERT INTO _version(ts) VALUES(datetime('now'))")
   list(status = "ok")
 }
+
